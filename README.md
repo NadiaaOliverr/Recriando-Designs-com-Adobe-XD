@@ -6,7 +6,11 @@
 Visando aprender ferramentas de desenvolvimento a respeito de [UI/UX design](https://www.raffcom.com.br/blog/qual-a-diferenca-entre-ux-e-ui/).
 
 ## Projetos Desenvolvidos :rocket:
-* [Little-invest](https://github.com/NadiaOliver/Recriando-Designs-com-Adobe-XD/tree/master/Little-invest) :moneybag: - Arte desenvolvida ao longo do [curso de Adobe XD](https://www.youtube.com/playlist?list=PL9rc_FjKlX3-K25DZVcNlsVDItg9OlZiW) da [ORIGAMID](https://www.origamid.com/). 
+* [Little-Invest](https://github.com/NadiaaOliverr/Recriando-Designs-com-Adobe-XD/blob/master/Little-invest/img/little-invest.pdf) :moneybag: - Arte desenvolvida ao longo do [curso de Adobe XD](https://www.youtube.com/playlist?list=PL9rc_FjKlX3-K25DZVcNlsVDItg9OlZiW) da [ORIGAMID](https://www.origamid.com/). 
+
+* [Food-App](https://github.com/NadiaaOliverr/Recriando-Designs-com-Adobe-XD/blob/master/Food%20App/img/food_app.pdf) :yum: - Arte desenvolvida a fins de aprendizagem na plataforma.
+
+* [Casa e Cadeira]() - Arte desenvolvida a fins de aprendizagem na plataforma durante o curso da [ALURA](https://alura.com.br)
 
 
 ## Autoria
