@@ -11,9 +11,9 @@ Visando aprender ferramentas de desenvolvimento a respeito de [UI/UX design](htt
 
 * [Food-App](https://github.com/NadiaaOliverr/Recriando-Designs-com-Adobe-XD/blob/master/Food%20App/img/food_app.pdf) :yum: - Arte desenvolvida a fins de aprendizagem na plataforma.
 
-* [House and Chair](https://github.com/NadiaaOliverr/Recriando-Designs-com-Adobe-XD/tree/master/Casa%20e%20Cadeira) :house: - Arte desenvolvida a fins de aprendizagem na plataforma durante o curso da [ALURA](https://alura.com.br).
+* [House and Chair](https://github.com/NadiaaOliverr/Recriando-Designs-com-Adobe-XD/tree/master/House%20and%20Chair) :house: - Arte desenvolvida a fins de aprendizagem na plataforma durante o curso da [ALURA](https://alura.com.br).
 
-* [Bytebank]() :moneybag: - Arte desenvolvida e adaptada a fins de aprendizagem durante o curso da [ALURA](https://alura.com.br).
+* [Bytebank]() :money_with_wings: - Arte desenvolvida e adaptada a fins de aprendizagem durante o curso da [ALURA](https://alura.com.br).
 
 
 
